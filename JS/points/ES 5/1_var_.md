@@ -1,0 +1,1 @@
+**Two variables with the same name do not give an error.**
